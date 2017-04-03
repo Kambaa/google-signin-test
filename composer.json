@@ -1,5 +1,15 @@
 {
-    "require": {
+  "name": "Kambaa/google-signin-test",
+  "description": "Sign in with google example",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yusuf Gündüz",
+      "email": "yusuf.gunduz@gmail.com"
+    }
+  ],
+   "require": {
     "google/apiclient": "1.0.*@beta"
     }
 }
